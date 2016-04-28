@@ -20,9 +20,9 @@ brand_color: Brand color
 brand_color_tip: Brand color appears on the hosted forum header, email headers, and authorisation dialogues.
 brand_name: Brand name
 brand_name_tip: Brand name appears on notification emails and hosted forums headers if no logo is uploaded.
-cancel: Cancel
-channel_name: Channel name
-channels: Channels
+cancel: Atsisakyti
+channel_name: Diskusijos pavadinimas
+channels: Diskusijos
 disable: Disable
 disable_under: Disable under
 disabled: Disabled
